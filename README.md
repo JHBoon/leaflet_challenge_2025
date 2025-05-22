@@ -1,5 +1,7 @@
 # Earthquake Visualizer
 
+
+
 This project is an interactive map that displays live earthquake data from the [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/). It allows users to view recent seismic activity filtered by time—today, past 7 days, or past 30 days—while providing detailed information for each event.
 
 > This project was created as part of the **Data Analyst Bootcamp** at the **Academy of Irvine**.
